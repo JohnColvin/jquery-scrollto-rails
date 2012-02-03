@@ -1,7 +1,5 @@
-module Jquery
-  module Scrollto
-    module Rails
-      VERSION = "0.0.1"
-    end
+module JqueryScrollto
+  module Rails
+    VERSION = "1.4.2"
   end
 end
