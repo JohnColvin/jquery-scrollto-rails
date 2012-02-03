@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = JqueryScrollto::Rails::VERSION
   s.authors     = ["John Colvin"]
   s.email       = ["colvin.john@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/JohnColvin/jquery-scrollto-rails"
   s.summary     = %q{Use jQuery scrollTo with Rails 3}
   s.description = %q{This provides jQUery scrollTo for your Rails 3 application}
 
