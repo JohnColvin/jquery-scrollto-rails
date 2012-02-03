@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "jquery-scrollto-rails/version"
+require "jquery-scrollto-rails/rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "jquery-scrollto-rails"
