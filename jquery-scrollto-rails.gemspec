@@ -4,14 +4,16 @@ require "jquery-scrollto-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "jquery-scrollto-rails"
-  s.version     = Jquery::Scrollto::Rails::VERSION
+  s.version     = JqueryScrollto::Rails::VERSION
   s.authors     = ["John Colvin"]
-  s.email       = ["colvin.68@osu.edu"]
+  s.email       = ["colvin.john@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Use jQuery scrollTo with Rails 3}
+  s.description = %q{This provides jQUery scrollTo for your Rails 3 application}
 
   s.rubyforge_project = "jquery-scrollto-rails"
+
+  s.add_dependency "railties", "~> 3.1"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
