@@ -4,8 +4,8 @@ This gem provides the jquery scrollTo project found at http://archive.plugins.jq
 
 To make use of this project add ONE of the following lines to 'app/assets/javascripts/application.js':
 
-    //= require scrollTo-min
-    //= require scrollTo
+    //= require jquery.scrollTo-min
+    //= require jquery.scrollTo
 
 ### Installation
 
