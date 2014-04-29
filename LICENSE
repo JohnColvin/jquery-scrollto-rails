@@ -1,1 +1,8 @@
+This gem packages the scrollTo project for Rails.
+
+The scrollTo license can be found at https://raw.githubusercontent.com/JohnColvin/jquery-scrollto-rails/master/LICENSE and is copied below:
 Apprise was created by Ariel Flesler. The project page is http://archive.plugins.jquery.com/project/ScrollTo. The javascript files claim as of version 1.4.1 that the project is dual licensed under MIT and GPL.
+
+Please respect the scrollTo licensing.
+
+The gem code is released under MIT license.
