@@ -8,8 +8,12 @@ Gem::Specification.new do |s|
   s.authors     = ["John Colvin"]
   s.email       = ["colvin.john@gmail.com"]
   s.homepage    = "https://github.com/JohnColvin/jquery-scrollto-rails"
-  s.summary     = %q{Use jQuery scrollTo with Rails 3}
-  s.description = %q{This provides jQUery scrollTo for your Rails 3 application}
+  s.summary     = %q{Use jQuery scrollTo with Rails 3.1 - 4.x}
+  s.description = %q{This provides jQUery scrollTo for your Rails 3.1 - 4.x application}
+  
+  # This gem packages the scrollTo project for Rails
+  # Please look at the license for that project
+  s.licenses    = ['MIT', 'GPL']
 
   s.rubyforge_project = "jquery-scrollto-rails"
 
