@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
 
   s.rubyforge_project = "jquery-scrollto-rails"
 
-  s.add_dependency "railties", "> 3.1", "< 5.0"
+  s.add_dependency "railties", "> 3.1", "< 6.0"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
