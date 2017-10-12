@@ -1,1 +1,1 @@
-require "jquery-scrollto-rails/rails"
+require 'jquery-scrollto-rails/rails'

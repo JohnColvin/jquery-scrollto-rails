@@ -1,5 +1,5 @@
 module JqueryScrollto
   module Rails
-    VERSION = "1.4.3"
+    VERSION = '2.1.2'.freeze
   end
 end
